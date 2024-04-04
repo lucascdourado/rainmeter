@@ -3,7 +3,7 @@
 This repository is a curated collection of Rainmeter skins designed to enhance your desktop with a variety of functionalities and aesthetics. Rainmeter skins allow for the display of customizable widgets, ranging from system monitors to weather forecasts, right on your desktop.
 
 ## Skins Included
-- **_Pixel Skins_**
+- [**_Pixel Skins_**](Pixel/README.md)
   - Clock: _Single Clock_
   - Clock: _Multi Clocks_
   - CPU
