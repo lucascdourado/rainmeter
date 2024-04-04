@@ -1,6 +1,6 @@
 # Rainmeter Skin Configuration: "Clocks"
 
-## At Bottom: PixelTime Skin
+## Single Clock: PixelTime Skin
 ### Description
 The "PixelTime" skin, authored by TomCoperations and adapted by Lucas Dourado, showcases an 8-bit style clock displaying hours, minutes, and the date. It provides a nostalgic pixel-art aesthetic for the desktop, utilizing the "VCR OSD Mono" font for a retro vibe.
 
@@ -25,3 +25,12 @@ Unique Elements
 
 ### Summary
 These configurations demonstrate a creative use of Rainmeter to bring both charm and utility to the desktop. The "PixelTime" skin offers a singular, stylish clock, while "Multi Clocks" expands this concept to a worldly view, tracking multiple time zones in a unified design. Both skins leverage the nostalgic appeal of the "VCR OSD Mono" font, emphasizing clarity and a throwback aesthetic.
+
+## Preview
+_Single Clock_:
+
+![Single Clock Preview](../img/SingleClock.png)
+
+_Multi Clocks_:
+
+![Multi Clocks Preview](../img/MultiClocks.png)

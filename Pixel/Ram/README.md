@@ -16,3 +16,6 @@ The configuration outlines several components of the skin, including:
 
 In essence, the skin is designed to offer a clear and stylized visualization of rea
 ime RAM usage, with a retro display aesthetic, thanks to the use of the "VCR OSD Mono" font.
+
+## Preview
+![Ram Display Preview](../img/Ram.png)

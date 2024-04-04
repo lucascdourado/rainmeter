@@ -24,3 +24,6 @@ The skin includes several key components:
 - **_MeterDownloadValue:_** Indicates the current download speed in bps, also auto-scaled and with one decimal point.
 
 The configuration highlights the skin's focus on providing real-time network statistics in a visually appealing and informative manner, ideal for users who wish to monitor their internet connection directly from their desktop.
+
+## Preview
+![Network Display Preview](../img/Network.png)

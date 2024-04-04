@@ -12,3 +12,6 @@ Display Meters
 
 ## Summary
 The "CPU Display" skin is engineered to provide an aesthetically pleasing and efficient way to keep an eye on CPU utilization, utilizing a minimalist design that fits well on any desktop. Its use of the retro-inspired "VCR OSD Mono" font adds a touch of nostalgia while maintaining clarity and readability, making it a practical addition for monitoring system resources.
+
+## Preview
+![CPU Display Preview](../img/Cpu.png)
